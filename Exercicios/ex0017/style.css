@@ -1,0 +1,19 @@
+body{
+    background-color: #d6fde9;
+
+}
+
+#principal{
+text-align: center;
+background-color: #2b5c43;
+color: white;
+}
+.basico{
+color:  #5bec3e;;
+}
+.Intermediario{
+color:  #7c7c20d5;;
+}
+.avancado{
+color:  #ec3e3e;;
+}
